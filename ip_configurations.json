@@ -1,0 +1,16 @@
+[
+    {
+        "AdapterName":  "Ethernet",
+        "Name":  "SAMPLE_1",
+        "SubnetMask":  "255.255.255.0",
+        "IPAddress":  "192.168.50.101",
+        "Gateway":  "192.168.6.1"
+    },
+    {
+        "AdapterName":  "Ethernet",
+        "Name":  "SAMPLE_2",
+        "SubnetMask":  "255.255.255.0",
+        "IPAddress":  "192.168.51.101",
+        "Gateway":  "192.168.143.1"
+    }
+]
